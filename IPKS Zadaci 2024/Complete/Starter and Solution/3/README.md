@@ -10,7 +10,7 @@
 
 **cards.json**: JSON-от за картички е во формат:
 
-[ "studentId": [низа од JSON објекти за картичка за тој студент]
+{"studentId": [низа од JSON објекти за картичка за тој студент]}
 
 Секој JSON објект за картичка одговара на специфичен вид на студентска картичка. Постојат следниве видови на студентски картички: Дебитна студентска картичка, Студентска картичка за кино, Студентска картичка за оброк, Студентска картичка за превоз и Специјална студентска картичка.
 
@@ -63,7 +63,7 @@
 - **Students JSON:** The students JSON includes an array of student IDs
 - **Student Cards JSON:** The cards JSON is of the format:
 
-[ "studentId": [array of card JSONs for that student] , // Additional entries for other students] 
+{"studentId": [array of card JSONs for that student]} , // Additional entries for other students] 
 
 Each card JSON corresponds to a specific type of student card, including Student Debit Card, Student Movie Card, Student Meal Card, Student Travel Card, and Specific Student Card.
 
