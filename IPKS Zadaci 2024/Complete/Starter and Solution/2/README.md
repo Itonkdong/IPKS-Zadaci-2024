@@ -11,7 +11,7 @@
 
 Пример за JSON:
 
-![image](Content/img1.png)
+![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.001.png)
 
 - Имплементирајте ја логиката за тополошко сортирање за правилно поврзување на податочните сегменти.
 - Визуелно прикажете ги сортираните податочни сегменти во дадениот HTML.
@@ -20,7 +20,7 @@
 
 **data-segments.json:** https://raw.githubusercontent.com/Itonkdong/JSON/main/data-segments.json
 
-![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.001.png)
+![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.002.png)
 
 Слика 1. Успешно вчитани, сортирани и прикажани податочни сегменти
 
@@ -45,4 +45,4 @@
 
 **data-segments.json:** https://raw.githubusercontent.com/Itonkdong/JSON/main/data-segments.json
 
-![image](Content/img2.png)
+![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.002.png)
