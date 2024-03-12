@@ -39,8 +39,8 @@
 **ЗАБЕЛЕШКА**: Повиците во **call-history.json** веќе се сортирани според времето и датумот. Почетниот HTML и CSS ви е даден. Фокусирајте се на имплементирање на мапирачката логика и точното прикажување на информациите базирани на дадената структура.
 
 **Fetch From**:
-**call-history.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json>
 
+**call-history.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json>
 **accounts.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/accounts.json
 
 ![image](Content/readme-images/Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.003.png)
