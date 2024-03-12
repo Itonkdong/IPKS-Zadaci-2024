@@ -71,6 +71,8 @@
 
 Слика 3. По кликнување на копчето „Shazamit“, се пребарува базата со песни и се пронаоѓа песната на која тој отпечаток припаѓа. Информациите на песната се прикажуваат во делот „Song Info“.
 
+<hr>
+
 <a name="_hlk158293802"></a>**Exercise 5:** 
 
 **Application for Song Identification**
@@ -86,9 +88,7 @@
 
 **Creating Fingerprint for the following Song Chunk:**
 
-- ![A screenshot of a computer
-
-Description automatically generated]
+- ![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.001.png)
 - **Amplitude:** Sum the values and divide by the duration (rounded to two decimal points). Example: **(0.55 + 0.40) / 2 = 0.475**
 - **Frequency:** Sum the values and divide by the duration. Example: **(440 + 880) / 2 = 660**
 - **Duration:** Use the provided duration value. Example: **2**
@@ -130,21 +130,9 @@ Description automatically generated]
 
 **Song Database Example:**
 
-![A computer screen shot of a computer code
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.002.png)
 
 **Fetch From**:
 **song-chunks.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/song-chunks.json>
 
 **Songs-database.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/songs-database.json
-
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.001.png
-[A computer screen shot of a computer code
-
-Description automatically generated]: Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.002.png
-[A computer screen shot of a computer code
-
-Description automatically generated]: Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.006.png
