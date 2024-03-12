@@ -131,7 +131,7 @@
 
 **Пример сценарио:**
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.001.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.001.png)
 
 **Објаснување:** 
 
