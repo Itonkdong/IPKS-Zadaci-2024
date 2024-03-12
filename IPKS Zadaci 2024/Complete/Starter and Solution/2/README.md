@@ -11,9 +11,7 @@
 
 Пример за JSON:
 
-![A computer screen with text on it
-
-Description automatically generated]
+![image](Content/img1)
 
 - Имплементирајте ја логиката за тополошко сортирање за правилно поврзување на податочните сегменти.
 - Визуелно прикажете ги сортираните податочни сегменти во дадениот HTML.
@@ -22,9 +20,7 @@ Description automatically generated]
 
 **data-segments.json:** https://raw.githubusercontent.com/Itonkdong/JSON/main/data-segments.json
 
-![A green rectangular box with black text
-
-Description automatically generated with medium confidence](Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.002.png)
+![image](Content/img2)
 
 Слика 1. Успешно вчитани, сортирани и прикажани податочни сегменти
 
