@@ -13,9 +13,7 @@
 
 **Создавање на отпечаток за даден дел од песната:**   
 
-- ![A screenshot of a computer
-
-Description automatically generated]
+- ![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.001.png)
 - **Амплитуда**: Збирот на вредностите поделен со времетраењето (заокружен на 2 децимали). Пример: (0.55 + 0.40) / 2 = 0.475 
 - **Фреквенција**: Збирот на вредностите поделен со времетраењето. Пример: (440 + 880) / 2 = 660.
 - **Времетраење**: Користете го даденото времетраење. Пример: 2  
@@ -54,28 +52,22 @@ Description automatically generated]
 
 Пример од базата со песни:
 
-![A computer screen shot of a computer code
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.002.png)
 
 **Fetch From**:
 **song-chunks.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/song-chunks.json>
 
 **Songs-database.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/songs-database.json
 
-![A screenshot of a blue and white rectangle
-
-Description automatically generated](Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.003.png)
+![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.003.png)
 
 Слика 1. Успешно вчитани делови од песни, пресметани нивните отпечатоци и прикажани во таб-от „Song Chunks“
 
-![A screenshot of a screen
-
-Description automatically generated](Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.004.png)
+![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.004.png)
 
 Слика 2. При клик на отпечаток, тој се поставува во слотот за идентификација
 
-![](Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.005.png)
+![image](Content/readme-images/Aspose.Words.67d559cc-02d1-4529-bd73-97f8f3219ae7.005.png)
 
 Слика 3. По кликнување на копчето „Shazamit“, се пребарува базата со песни и се пронаоѓа песната на која тој отпечаток припаѓа. Информациите на песната се прикажуваат во делот „Song Info“.
 
