@@ -36,7 +36,7 @@
   - Fetch the unsorted JSON **data-segmenets.json** containing data segments with "data," "address," and "nextDataSegment" fields.
     - Example for the JSON:
 
-![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.002.png)
+![image](Content/readme-images/Aspose.Words.04932331-13dc-4bd6-8610-13806c64f8f0.001.png)
 
 - Implement the topological sort logic to correctly connect the data segments visually.
 - Display the sorted data segments in the provided HTML, maintaining the specified connections.
