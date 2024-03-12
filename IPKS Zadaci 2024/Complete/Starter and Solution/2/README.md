@@ -11,7 +11,7 @@
 
 Пример за JSON:
 
-![image](Content/img1)
+![image](Content/img1.png)
 
 - Имплементирајте ја логиката за тополошко сортирање за правилно поврзување на податочните сегменти.
 - Визуелно прикажете ги сортираните податочни сегменти во дадениот HTML.
@@ -20,7 +20,7 @@
 
 **data-segments.json:** https://raw.githubusercontent.com/Itonkdong/JSON/main/data-segments.json
 
-![image](Content/img2)
+![image](Content/img2.png)
 
 Слика 1. Успешно вчитани, сортирани и прикажани податочни сегменти
 
