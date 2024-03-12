@@ -219,59 +219,47 @@
 
 Напомена: Корисникот треба да го исклучи режимот на креирање за да изработува предмети на обичен начин.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.002.png)
+![image](Content/readme-images/(Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.002.png)
 
 Слика 1. Почетен изглед на модулот
 
-![A screenshot of a video game
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.003.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.003.png)
 
 Слика 2. Вчитување на почетните рецепти од дадениот JSON
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.004.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.004.png)
 
 Слика 3. Активирање на предмет и негово поставување во еден од слотовите на таблата
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.005.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.005.png)
 
 Слика 4. Активарање на blueprint – от на даден предмет
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.006.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.006.png)
 
 Слика 5. Успешна изработка на предметот
 
-![A screenshot of a video game
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.007.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.007.png)
 
 Слика 6. Активирање на успешно изработениот предмет
 
-![A screenshot of a video game
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.008.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.008.png)
 
 Слика 7. Конзумирање на изработениот предмет и негово поставување во еден oд слотовите за “изработени предмети“
 
-![A screenshot of a video game
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.009.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.009.png)
 
 Слика 8. Вклучување на режимот за креирање на рецепти
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.010.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.010.png)
 
 Слика 9. Креирање на рецепт, доделување име на новиот предмет и поставување URL од сликата што ќе се користи за визуелно претставување на предметот.
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.011.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.011.png)
 
 Слика 10. Успешно креирање на нов предмет
 
-![A screenshot of a video game
-
-Description automatically generated](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.012.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.012.png)
 
 Слика 11. При повторно вчитување на страницата, вчитување и на кориснички дефинираниот рецепт. При десен клик на него, активирање на неговиот blueprint.
 
@@ -366,7 +354,7 @@ At the beginning, users are provided with basic materials (wood, metal, stone, a
 
 Example Scenario:
 
-![](Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.013.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.013.png)
 
 Explanation:
 
