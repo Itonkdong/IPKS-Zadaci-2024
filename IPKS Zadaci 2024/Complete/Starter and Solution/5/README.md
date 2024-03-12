@@ -111,9 +111,9 @@
 1. **Given Song Chunk:**
 
    {
-   `    `"amplitude": [0.55, 0.40],
-   `    `"frequency": [440, 880],
-   `    `"duration": 2
+      "amplitude": [0.55, 0.40],
+      "frequency": [440, 880],
+      "duration": 2
    }
 
 1. **Fingerprint Calculation:**
