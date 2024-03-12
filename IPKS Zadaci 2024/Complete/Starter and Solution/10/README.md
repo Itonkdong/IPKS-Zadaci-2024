@@ -269,7 +269,7 @@
 
 - **Difficulty Level: 10/10**
 
-**Part I:**
+<h2>Part I:</h2>
 
 **Overview:** In this exercise, students will design and implement an "Item Crafting" app module for a new survival mythic game. The crafting board consists of 6 slots arranged in a 2x3 grid, with an additional powder slot (visually represented with a pink dashed border). The resulting item is displayed in the result slot. Two types of items exist: materials and powders.
 
@@ -373,7 +373,7 @@ Explanation:
 
 **crafting-recipes.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/crafting-recipes.json
 
-**Part II:**
+<h2>Part II:</h2>
 
 **Recipe Creation Module**
 
