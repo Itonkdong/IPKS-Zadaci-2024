@@ -50,6 +50,7 @@
 
 Слика 2. При клик на студент, успешно прикажани информациите за сите негови картички
 <hr>
+
 **Exercise 3:** 
 
 **Student Service Module For Displaying Student Information**
