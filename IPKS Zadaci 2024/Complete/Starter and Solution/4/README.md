@@ -40,7 +40,7 @@
 
 **Fetch From**:
 
-**call-history.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json>
+**call-history.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json
 
 **accounts.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/accounts.json
 
@@ -91,8 +91,10 @@
   - When an account is selected, map phone numbers to contact names in the call history.
   - Display the mapped call history on the "Call History" tab.
 
-**NOTE***:*The calls in the call-history.json are already sorted by time and date. Students are expected to correctly parse and render the call history without the need for additional sorting. The starting HTML and CSS are provided. Focus on implementing the mapping logic and displaying the information accurately based on the provided structure.
+**NOTE***:The calls in the call-history.json are already sorted by time and date. Students are expected to correctly parse and render the call history without the need for additional sorting. The starting HTML and CSS are provided. Focus on implementing the mapping logic and displaying the information accurately based on the provided structure.
 
 **Fetch From**:
-**call-history.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json>
+
+**call-history.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json
+
 **accounts.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/accounts.json
