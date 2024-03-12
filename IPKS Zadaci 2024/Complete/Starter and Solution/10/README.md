@@ -219,7 +219,7 @@
 
 Напомена: Корисникот треба да го исклучи режимот на креирање за да изработува предмети на обичен начин.
 
-![image](Content/readme-images/(Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.002.png)
+![image](Content/readme-images/Aspose.Words.f46e98da-bee0-4d38-acc8-ad9c2bfd8425.002.png)
 
 Слика 1. Почетен изглед на модулот
 
