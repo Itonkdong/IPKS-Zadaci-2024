@@ -24,6 +24,8 @@
 
 Слика 1. Успешно вчитани, сортирани и прикажани податочни сегменти
 
+<hr>
+
 **Exercise 2:** 
 
 **Topological Sorting of Unsorted Data Segments**
