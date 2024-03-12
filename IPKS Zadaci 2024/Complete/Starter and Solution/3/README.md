@@ -14,7 +14,7 @@
 
 Секој JSON објект за картичка одговара на специфичен вид на студентска картичка. Постојат следниве видови на студентски картички: Дебитна студентска картичка, Студентска картичка за кино, Студентска картичка за оброк, Студентска картичка за превоз и Специјална студентска картичка.
 
-` `Типови на картички и нивните податоци:
+Типови на картички и нивните податоци:
 
 - **Student Debit Card:**
   - Fields: Card Number, Card Holder Name, Date of Expiration, Balance
@@ -42,15 +42,11 @@
 
 **students.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/students.json
 
-![A close-up of a card
-
-Description automatically generated](Aspose.Words.2109666b-c0e0-49f9-8363-42a28763036d.001.png)
+![image](Content/readme-images/Aspose.Words.2109666b-c0e0-49f9-8363-42a28763036d.001.png)
 
 Слика 1. Успешно вчитани и прикажани сите студенти
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.2109666b-c0e0-49f9-8363-42a28763036d.002.png)
+![image](Content/readme-images/Aspose.Words.2109666b-c0e0-49f9-8363-42a28763036d.002.png)
 
 Слика 2. При клик на студент, успешно прикажани информациите за сите негови картички
 **
