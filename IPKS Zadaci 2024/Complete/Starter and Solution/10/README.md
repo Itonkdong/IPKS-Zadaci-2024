@@ -1,5 +1,5 @@
 ﻿**Вежба 10:**
- <span style="font-size: 20px;">TEMP</span>
+ <span style="font-size: 60px;">TEMP</span>
 
 **Модул за изработка на предмети**
 
