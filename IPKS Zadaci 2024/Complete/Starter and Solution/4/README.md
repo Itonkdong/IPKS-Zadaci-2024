@@ -10,13 +10,13 @@
 
 1. **JSON со историја на повици (call-history.json): JSON датотеката содржи низа на записи за историјата на повици структурирани на следниот начин:**
 
-   ![A computer screen shot of numbers and letters
+   ![image](Content/readme-images/Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.001.png)
 
 Description automatically generated]
 
 1. **JSON за профили (accounts.json): JSON датотеката содржи низа на записи за профили структурирани на следниот начин:**
 
-   ![image](Content/readme-images/
+   ![image](Content/readme-images/Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.002.png)
 
 **Инструкции**:
 
@@ -66,15 +66,11 @@ Description automatically generated]
 - **Input JSONs:**
   - **Call History JSON (call-history.json):** The JSON file contains an array of call history entries structured as follows:
 
-![A computer screen shot of numbers and letters
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.001.png)
 
 - **Accounts JSON (accounts.json):** The JSON file contains an array of account entries structured as follows:
 
-![A computer screen with text and numbers
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.002.png)
 
 
 - **Tasks:**
@@ -101,16 +97,3 @@ Description automatically generated]
 **Fetch From**:
 **call-history.json**: <https://raw.githubusercontent.com/Itonkdong/JSON/main/call-history.json>
 **accounts.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/accounts.json
-
-[A computer screen shot of numbers and letters
-
-Description automatically generated]: Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.001.png
-[A computer screen with text and numbers
-
-Description automatically generated]: Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.002.png
-[A computer screen shot of numbers and letters
-
-Description automatically generated]: Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.005.png
-[A computer screen with text and numbers
-
-Description automatically generated]: Aspose.Words.fdd22241-2e9c-4ea6-bbb0-241ea773b4f9.006.png
