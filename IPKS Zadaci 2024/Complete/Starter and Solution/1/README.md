@@ -30,7 +30,7 @@
 
 - **To-Do List Display**
 
-- **Difficulty Level:** 0.5/10
+**Difficulty Level:** 0.5/10
 - **Overview:** This exercise involves working with a JSON array containing to-do items. The goal is to create a web application that will display all the to-do’s informations. 
 - **Features:**
   - Display all the information for the dotos on the web page. 
