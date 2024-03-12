@@ -1,0 +1,50 @@
+[
+  {
+    "gmail": "john.doe@gmail.com",
+    "savedContacts": {
+      "123-456-7890": "John Doe",
+      "789-012-3456": "Jane Doe",
+      "456-789-0123": "Bob Doe",
+      "987-654-3210": "Alice Doe",
+      "222-333-4444": "Eve Doe",
+      "777-888-9999": "Chris Doe",
+      "333-444-5555": "Sara Doe",
+      "555-666-7777": "Mike Doe",
+      "999-000-1111": "Alex Doe",
+      "888-999-0000": "Emily Doe",
+      "111-222-3333": "Dave Doe"
+    }
+  },
+  {
+    "gmail": "jane.smith@gmail.com",
+    "savedContacts": {
+      "456-789-0123": "Jane Smith",
+      "987-654-3210": "John Smith",
+      "123-456-7890": "Sam Smith",
+      "555-666-7777": "Lucy Smith",
+      "888-999-0000": "Chris Smith",
+      "111-222-3333": "Dave Smith",
+      "777-888-9999": "Chris Smith",
+      "333-444-5555": "Sara Smith",
+      "999-000-1111": "Alex Smith",
+      "222-333-4444": "Eve Smith",
+      "789-012-3456": "Jane Smith"
+    }
+  },
+  {
+    "gmail": "bob.johnson@gmail.com",
+    "savedContacts": {
+      "111-222-3333": "Bob Johnson",
+      "333-444-5555": "Sara Johnson",
+      "555-666-7777": "Mike Johnson",
+      "777-888-9999": "Emily Johnson",
+      "999-000-1111": "Alex Johnson",
+      "888-999-0000": "Chris Johnson",
+      "123-456-7890": "John Johnson",
+      "789-012-3456": "Jane Johnson",
+      "456-789-0123": "Sam Johnson",
+      "987-654-3210": "Lucy Johnson",
+      "222-333-4444": "Eve Johnson"
+    }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 80,
+    "timeToLive": 5,
+    "protocol": "TCP",
+    "headerChecksum": "0xABCD",
+    "sourceIP": "192.168.1.10",
+    "destinationIP": "192.168.2.2",
+    "payload": "Hello, RouterX to FastEthernet0/2!"
+  },
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 120,
+    "timeToLive": 8,
+    "protocol": "UDP",
+    "headerChecksum": "0x5678",
+    "sourceIP": "192.168.1.20",
+    "destinationIP": "192.168.3.3",
+    "payload": "Greetings from RouterX to FastEthernet0/3!"
+  },
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 100,
+    "timeToLive": 10,
+    "protocol": "ICMP",
+    "headerChecksum": "0x1234",
+    "sourceIP": "192.168.1.30",
+    "destinationIP": "192.168.4.4",
+    "payload": "RouterX ICMP Test to FastEthernet0/4!"
+  },
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 150,
+    "timeToLive": 7,
+    "protocol": "TCP",
+    "headerChecksum": "0x89AB",
+    "sourceIP": "192.168.1.10",
+    "destinationIP": "192.168.2.2",
+    "payload": "Data transfer request to FastEthernet0/2!"
+  },
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 200,
+    "timeToLive": 9,
+    "protocol": "UDP",
+    "headerChecksum": "0xCD12",
+    "sourceIP": "192.168.1.20",
+    "destinationIP": "192.168.3.3",
+    "payload": "Request for UDP service to FastEthernet0/3!"
+  },
+  {
+    "version": 4,
+    "headerLength": 20,
+    "totalLength": 180,
+    "timeToLive": 1,
+    "protocol": "ICMP",
+    "headerChecksum": "0x6789",
+    "sourceIP": "192.168.1.30",
+    "destinationIP": "192.168.4.4",
+    "payload": "Discarded Datagram to FastEthernet0/4!"
+  }
+  // Additional datagrams...
+]

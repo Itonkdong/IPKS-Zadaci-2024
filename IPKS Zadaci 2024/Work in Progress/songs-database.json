@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "duration": 180,
+    "coverPictureURL": "https://example.com/sorry_cover.jpg",
+    "fingerprints": ["0.475_660_2", "0.65_825_3", "0.4_600_2"]
+  },
+  {
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "duration": 210,
+    "coverPictureURL": "https://example.com/love_yourself_cover.jpg",
+    "fingerprints": ["0.60_990_3", "0.75_1200_4", "0.45_640_2"]
+  },
+  {
+    "title": "Baby",
+    "artist": "Justin Bieber",
+    "duration": 150,
+    "coverPictureURL": "https://example.com/baby_cover.jpg",
+    "fingerprints": ["0.40_550_2", "0.55_1000_3", "0.35_560_2"]
+  },
+  {
+    "title": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "duration": 240,
+    "coverPictureURL": "https://example.com/what_do_you_mean_cover.jpg",
+    "fingerprints": ["0.65_1040_4", "0.80_1200_5", "0.55_720_2"]
+  },
+  {
+    "title": "Yummy",
+    "artist": "Justin Bieber",
+    "duration": 180,
+    "coverPictureURL": "https://example.com/yummy_cover.jpg",
+    "fingerprints": ["0.75_975_3", "0.90_1350_4", "0.65_720_2"]
+  }
+]
