@@ -118,6 +118,7 @@ TTL: 5
 
 Слика 3. Успешно завршена симулацијата на рутирање со правилно подредување на датаграмите на соодвените излезни интерфејси. Датаграмите со TTL = 0 се отфрлени
 
+<hr>
 
 <a name="_hlk158204787"></a>**Exercise 6:** 
 
@@ -174,7 +175,7 @@ Consider a scenario where a router named "RouterX" with multiple interfaces need
 
 |<p><a name="_hlk158203187"></a>**Router-Settings.json:**</p><p></p>|**Datagrams.json:**|
 | :- | :- |
-|![ref1]|![ref2]|
+|![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.001.png)|![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.002.png)|
 
 **Simulation Steps:**
 
