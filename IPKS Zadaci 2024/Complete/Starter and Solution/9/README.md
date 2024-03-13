@@ -12,7 +12,7 @@
 
 1. **HTML и CSS:**  
 - Анализирајте ги дадените HTML и CSS фајлови за да ги разберете структурата и класите користени во апликацијата. Забележете дека дадениот HTML вклучува hard-code-ирана верзија на фајлови, папки, фајлови на лентата за едитирањеи и зачувани проекти. Ова служи како визуелна референца за тоа како треба да изгледа апликацијата откако динамичката имплементација ќе биде завршена. Запомнете да ги отстраните хард-кодираните делови откако успешно ќе ја имплементирате динамичката функционалност.
-1. **Преглед на таб-овите:**  
+2. **Преглед на таб-овите:**  
 - Апликацијата вклучува повеќе таб-ови, и тоа:  
   1. Folders
   1. Files
@@ -22,25 +22,25 @@
   1. Preview
   1. Ленди за едитирање (T1 и T2)
   1. Buttons Section
-2. **Вчитување од JSON:**  
+3. **Вчитување од JSON:**  
 - Вчитајте го root-folder.json фајлот, кој содржи низа на папки.  
 - Секоја папка има име на папка, идентификатор на папка и низа на фајлови (филмови).
 - Секој фајл има име на фајл, траење, previewURL и thumbnailURL.
-3. **Прикажување на папки и фајлови:**  
+4. **Прикажување на папки и фајлови:**  
 - Прикажете ги сите папки од root папката во таб-от „Folders“.  
 - Кликање на папка треба да ја направи активна, прикажувајќи ги нејзините фајлови (филмови) во „Files“.  
 - Кликање на фајл треба да го направи активен.
-4. **Ленти за едитирање**:  
+5. **Ленти за едитирање**:  
 - Изберете папка, па фајл за да го направите активен.  
 - Кликнете на лентата за едитирање (изберете само една лента, Т1 или Т2 и работете само со неа) за да го вчитате фајлот на лентата.  
 - Пресметајте го процентот на траење на фајлот спрема 15-минутната лента за едитирање и вметнете црвен div со ширина еднаква на пресметаниот процент. Пр. Ако фајлот има траење од 360 секунди (6 минути), тоа е 40 % од 15 минутната лента за едитирање, па треба да се вметни црвен div со ширина еднака на 40% 
 - Името на фајлот треба да се наоѓа во средината од div-от
-5. **Зачувување на проекти**:  
+6. **Зачувување на проекти**:  
 - Вметнете го името на проектот во таб-от „Project Info“.  
 - Кликнете на копчето „Save Project“ во делот со копчиња.  
 - Зачуваниот проект се прикажува во таб-от „Saved Projects“.  
 - По зачувувањето, исчистетe ја лентата за едитирање.
-6. **Вчитување на зачуван проект:**  
+7. **Вчитување на зачуван проект:**  
 - Кликнете на зачуван проект во таб-от „Saved Projects“. 
 - Проектот се вчитува, прикажувајќи ги фајловите користени на лентата за едитирање.  
 - Постоечките фајлови на лентата за едитирање пред вчитувањето треба да бидат исчистени. 
@@ -64,14 +64,14 @@
 
 1. **Thumbnail слика:**  
 - Користете ја thumbnailURL сликата како позадина за секој фајл прикажан во таб-от " Files".
-1. **Preview слика:**  
+2. **Preview слика:**  
 - Наместо div со црвена позадина, користете ја previewURL сликата како позадина за уредувачки фајл на лентата за едитирање. Повторете ја сликата ако траењето на фајлот ja надмине ширината на сликата.
-1. **Активен уредувачки фајл:**  
+3. **Активен уредувачки фајл:**  
 - Направете го последно додадениот фајл на лентата за едитирање активен уредувачки фајл.  
 - Кликнете на било кој уредувачки фајл за да го направите активен.  
 - Preview сликата на активниот уредувачки фајл се прикажува во таб-от "Preview".  
 - При вчитување на зачуван проект, последниот уредувачки фајл на проектот станува активен.
-1. **Бришење на уредувачки фајлови:**  
+4. **Бришење на уредувачки фајлови:**  
 - Избришете уредувачки фајл со тоа што ќе го направите активен и кликнете на копчето "Delete Element" во таб-от "Buttons".  
 - Кога уредувачкиот фајл се брише не треба да има активен уредувачки фајл. 
 - Таб-от "Preview" треба ова да го отразува со неприкажување на никаква слика, се додека корисникот не кликне на некој уредувачки фајл, правејќи го акитвен. 
@@ -84,11 +84,11 @@
 
 1. **Изберете траење на лентанта:**  
 - Кликнување на радио копчињата во таб-от "Project Info", им овозможува на корисниците да изберат помеѓу 15-минутнa и 20-минутнa лента за едитирање.
-1. **Изберете боја за проектот:**  
+2. **Изберете боја за проектот:**  
 - Имплементирајте ја опцијата за корисниците да изберат боја на позадина за своите проекти во таб-от "Project Info".
-1. **Боја на позадина за зачуваниот проект:** 
+3. **Боја на позадина за зачуваниот проект:** 
 - Применете ја избраната боја на позадина како боја на позадина на зачуваниот проект "div" во таб-от "Saved Projects".
-1. **Alert за полна лента за едитирање:**
+4. **Alert за полна лента за едитирање:**
 - Кога корисникот се обидува да вметнете фајл во лентата за едитирање при што го надминува одреденото траење на проектот, потребно е да се појави alert прозорец и да се спречи акцијата.
 
 **НАПОМЕНА**: Ако корисникот се обиде да вчита проект на лента со помало траење од вкупното траење на проектот, треба да се прикаже alert прозорче и акцијата треба да биде блокирана. 
@@ -105,14 +105,14 @@
 - Пресметајте го времето за рендерирање на основа на вкупното времетраење во секунди на уредувачките фајлови на лентата за едитирање, поделено со 100.  
 - Имплементирајте прогресна лента во таб-от "Save Progress" која започнува да се пополнува за време на времето за рендерирање.  
 - Проектот се зачувува само кога прогресната лента е наполнета целосно.
-1. **Потврда за отфрлање на незачуваниот проект:**  
+2. **Потврда за отфрлање на незачуваниот проект:**  
 - Кога се обидувате да вчитате проект, а притоа имате незачувани фајлови на лентата за едитирање, потребно е да се појави потврден прозорец за корисникот.  
 - Ако корисникот кликне "OK", незачуваниот проект се отфрла (избришете ги уредувачките фајлови) и вчитајте го избраниот зачуван проект на лентата за едитирање.  
 - Ако корисникот кликне "Cancel", процесот на вчитување се откажува без да се направат какви било промени.
-1. **Зачувување на проектите во local storage:** 
+3. **Зачувување на проектите во local storage:** 
 - Кога корисникот ќе кликне на копчето "Save Project", потребно е проектот да се зачувава и во local storage.  
 - Сите зачувани проекти во local storage потребно е да се вчитаат кога апликацијата се иницијализира или освежува.
-1. **Копче за бришење на сите проекти:**  
+4. **Копче за бришење на сите проекти:**  
 - Имплементирајте го копчето "Delete All Projects" кое ги отстранува сите проекти од апликацијата за уредување на филмови.  
 - Оваа акција треба да ги избрише проектите од local storage и визуелно на UI-то.  Пред извршувањето на оваа акција, потребно е да се појави потврден прозорец за да се осигурате дека корисниците сакаат да ги избришат сите проекти.  
 
@@ -152,7 +152,7 @@
 
 - **Difficulty Rating: 9/10**
 
-**Part I (Basic Implementation)**
+<h3>Part I (Basic Implementation)</h3>
 
 **Overview**: In this initial stage of the exercise, you'll lay the foundation for a simplified movie editing app. The app is organized into distinct tabs, each serving a specific purpose - from managing folders and files to project-saving functionalities. As part of the task, you'll fetch and parse data from a **root-folder.json** file, housing folders with sets of movie files. Your mission involves rendering folders in the "Folders" tab, allowing users to click and explore the associated files in the "Files" tab. The core functionality lies in loading selected files onto the editing bar (T1 or T2, choose only one), where the user can select a folder and a file, click the editing bar, and calculate the file's duration percentage relative to the 15-minute editing bar. The result is a red-background div, symbolizing the file's position. Additionally, you'll implement project-saving capabilities, prompting users to insert a project name and click the "Save Project" button. The saved project will appear in the "Saved Projects" tab, and editing bars will clear. To complete this part, users should be able to load a saved project, ensuring existing files on the editing bar are cleared before loading.
 
@@ -202,7 +202,7 @@ Imagine you have a collection of vacation videos categorized into folders. You w
 
 **root-folder.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/root-folder.json
 
-**Part II (Enhancing User-Friendly UI)**
+<h3>Part II (Enhancing User-Friendly UI)</h3>
 
 **Overview:** In this second part of the exercise, you'll elevate the user experience by implementing additional features to enhance the user interface of the movie editing app. Each file now has two URLs: preview and thumbnail. The thumbnail will serve as the background for each file displayed in the "Files" section, resembling a typical video thumbnail. Additionally, when a file is loaded onto the editing bar, instead of a red background div, the background will now be an image of the **previewURL**, repeating if the file's duration exceeds the image width.
 
@@ -226,7 +226,7 @@ Furthermore, an editing file on the editing bar can now become active. Each time
 **Example Scenario:** Now, when you load a file onto the editing bar, not only does its **previewURL** become the background, but you can also make it active to see its preview image in the "Preview" tab. Moreover, you have the flexibility to delete an editing file directly from the editing bar, streamlining the editing process.
 
 
-**Part III (Improving Capabilities)**
+<h3>Part III (Improving Capabilities)</h3>
 
 **Overview:** In this third part of the exercise, you'll further enhance the capabilities of the movie editing app. Users can now choose between a 15-minute and a 20-minute track by clicking the radio button in the "Project Info" tab. Additionally, users can personalize their projects by choosing a background color. This color will be applied as the background color of the saved project "div" in the "Saved Projects" tab.
 
@@ -249,15 +249,11 @@ Similarly, if the user is currently editing files on a track (e.g., with a durat
 
 **Example Scenario:** Now, users have the flexibility to choose the duration of their project and personalize it with a background color. When attempting to insert a file into the editing bar, they will be alerted if it would exceed the specified project duration, ensuring a seamless editing experience.
 
-
-
-
-
-**Part IV (Simulating Real Behavior)**
+<h3>Part IV (Simulating Real Behavior)</h3>
 
 **Overview:** In this short yet impactful part of the exercise, you will simulate a waiting period that is required before a project is saved, simulating a render time. The render time is calculated based on the total length in seconds of the editing files on the editing bar, divided by 100. During this waiting period, a progress bar in the "Save Progress" tab (already hard-coded in the HTML and CSS) should start filling up, resembling a typical progress bar. The project is saved only when the progress bar is fully filled.
 
-` `When attempting to load a project while there are files on the editing bar, a prompt (or a similar popup window) will ask the user whether they want to discard the unsaved project (files on the editing bar). If the user clicks "OK," the editing files are discarded, and the chosen saved project is loaded onto the editing bar. If the user clicks "Cancel," the loading process is canceled, and no changes occur. Additionally,  the user's progress will be retained even after refreshing the page through local storage
+When attempting to load a project while there are files on the editing bar, a prompt (or a similar popup window) will ask the user whether they want to discard the unsaved project (files on the editing bar). If the user clicks "OK," the editing files are discarded, and the chosen saved project is loaded onto the editing bar. If the user clicks "Cancel," the loading process is canceled, and no changes occur. Additionally,  the user's progress will be retained even after refreshing the page through local storage
 
 **New Features:**
 
