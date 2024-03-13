@@ -1,4 +1,4 @@
-﻿**Вежба 6:**
+<h1>Вежба 6:</h1>
 
 **Симулација на мрежен рутер**
 
@@ -120,8 +120,8 @@ TTL: 5
 
 <hr>
 
-<a name="_hlk158204787"></a>**Exercise 6:** 
-
+<h1>Exercise 6:</h1>
+ 
 **Network Router Simulation**
 
 - **Difficulty Level: 5/10**
