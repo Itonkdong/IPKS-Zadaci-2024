@@ -1,4 +1,4 @@
-﻿**Вежба 2:**
+﻿<h1>Вежба 2:</h1>
 
 **Тополошко сортирање на несортирани податочни сегменти**
 
@@ -26,7 +26,7 @@
 
 <hr>
 
-**Exercise 2:** 
+<h1>Exercise 2</h1> 
 
 **Topological Sorting of Unsorted Data Segments**
 
