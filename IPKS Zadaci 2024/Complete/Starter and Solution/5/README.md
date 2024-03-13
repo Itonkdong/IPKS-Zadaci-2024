@@ -1,4 +1,4 @@
-﻿**Вежба 5:** 
+<h1>Вежба 5:</h1>
 
 **Апликација за идентификација на песни** 
 
@@ -74,8 +74,8 @@
 
 <hr>
 
-<a name="_hlk158293802"></a>**Exercise 5:** 
-
+<h1>Exercise 5</h1>
+ 
 **Application for Song Identification**
 
 - **Difficulty Level: 4/10**
