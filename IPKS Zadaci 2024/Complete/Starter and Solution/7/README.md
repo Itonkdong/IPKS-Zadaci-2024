@@ -69,27 +69,19 @@
 
 Пример слики:
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.001.png)
+![image](Content/readme-images/Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.001.png)
 
 Слика 1. Успешно прикажани информации за производ и успешно изгенериран баркод.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.002.png)
+![image](Content/readme-images/Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.002.png)
 
 Слика 2. Избледување на баркодот при негово скенирање.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.003.png)
+![image](Content/readme-images/Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.003.png)
 
 Слика 3. Успешно скниран баркод и прикажување на информации за неговата достапност.
 
-![A screenshot of a gym shorts
-
-Description automatically generated](Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.004.png)
+![image](Content/readme-images/Aspose.Words.47e89dcc-7359-43b0-b0db-d1921db7163a.004.png)
 
 Слика 4. После 3 секунди, успешно вчитан следен производ.
 
