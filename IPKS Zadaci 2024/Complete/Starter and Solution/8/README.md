@@ -1,4 +1,4 @@
-<h1>Вежба 9:</h1
+<h1>Вежба 8:</h1
                
 **Модул за апликација за размена на пораки за пријателство**
 
@@ -117,7 +117,7 @@ Fetch From:
 
 <hr>
 
-<h1>Exercise 6:</h1>
+<h1>Exercise 8:</h1>
 
 **Friendship Messaging App Module**
 
