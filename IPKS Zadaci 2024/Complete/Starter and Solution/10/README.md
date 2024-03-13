@@ -1,7 +1,10 @@
 <h1>Вежба 10:</h1>
- -Модул за изработка на предмети
+
+ **Модул за изработка на предмети**
 
 **• Тежина: 10/10**
+
+**ЗАБЕЛЕШКА: ЗА ОВАА ЗАДАЧА ЗАДОЛЖИТЕЛЕН Е САМО ПРВИОТ ДЕЛ, ОСТАНАТИТЕ ДЕЛОВИ СЕ ОПЦИОНАЛНИ**
 
 <h2>Дел I:</h2>
 
@@ -267,6 +270,8 @@
 **Item Crafting App Module**
 
 - **Difficulty Level: 10/10**
+
+**NOTE: ONLY PART ONE IS MANDATORY FOR THIS EXERCISE, THE OTHER PARTS ARE OPTIONAL**
 
 <h2>Part I:</h2>
 
