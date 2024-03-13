@@ -1,4 +1,4 @@
-﻿**Вежба 7:**
+<h1>Вежба 7:</h1>
 
 **Eдноставен прикажувач на производи и скeнeр нa баркодoви**
 
@@ -87,8 +87,7 @@
 
 <hr>
 
-
-**Exercise 7:**  
+<h1>Exercise 7:</h1>
 
 **Build a Simplified Barcode Scanner for Shipping Courier**
 
