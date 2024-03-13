@@ -54,7 +54,7 @@
 
 |<p>**Router-Settings.json:**</p><p></p>|**Datagrams.json:**|
 | :- | :- |
-|![ref1]|![ref2]|
+|![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.001.png)|![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.002.png)|
 
 **Чекори на симулацијата**:
 
