@@ -131,13 +131,13 @@ TTL: 5
 **Exercise Steps**:
 
 1. **Router-Settings.json:**
-   1. You will need to fetch information from JSON file called "router-settings.json."
-   1. The JSON structure includes:
-      1. Router hostname
-      1. Entering interface with its IP
-      1. IPs of other interfaces
-      1. Routing table (mapping concrete IP addresses to next hop IP addresses and interface identifications)
-      1. ARP table (mapping IP addresses to MAC addresses)
+   - You will need to fetch information from JSON file called "router-settings.json."
+   - The JSON structure includes:
+      - Router hostname
+      - Entering interface with its IP
+      - IPs of other interfaces
+      - Routing table (mapping concrete IP addresses to next hop IP addresses and interface identifications)
+      - ARP table (mapping IP addresses to MAC addresses)
 1. **Understanding Datagram.json:**
    1. You then need to examine a JSON file named "datagram.json" containing an array of simplified IP datagrams.
    1. Each datagram object includes fields such as version, header length, total length, time to live, protocol, header checksum, source IP, destination IP, and payload.
@@ -181,20 +181,20 @@ Consider a scenario where a router named "RouterX" with multiple interfaces need
 
 1. **Visual Representation:**
    1. The HTML page displays the router's interfaces visually, with " FastEthernet0/1" highlighted in red.
-   1. IP addresses are assigned to all interfaces.
-   1. Routing table and the arp table are filled with their entries.
-1. **Datagram Display:**
+   2. IP addresses are assigned to all interfaces.
+   3. Routing table and the arp table are filled with their entries.
+3. **Datagram Display:**
    1. Datagrams are shown visually queued up in the " FastEthernet0/1" entering interface.
 
-1. **Routing Simulation:**
+4. **Routing Simulation:**
    1. Clicking the "Simulate Routing" button decreases TTLs and routes datagrams based on the router's routing table and ARP table.
-   1. MAC addresses are fetched from the ARP table for each next hop IP.
-   1. Datagrams are moved to the appropriate interface with MAC address information.
-1. **Discarding Datagrams:**
+   2. MAC addresses are fetched from the ARP table for each next hop IP.
+   3. Datagrams are moved to the appropriate interface with MAC address information.
+5. **Discarding Datagrams:**
    1. If a datagram's TTL reaches zero, it is discarded and placed in the "Discarded" tab.
-1. **FIFO Queue:**
+6. **FIFO Queue:**
    1. If more datagrams exist on an exiting interface, they are queued up following the FIFO rule.
-1. **Conclusion:**
+7. **Conclusion:**
    1. The simulation concludes when all datagrams are successfully routed, discarded if necessary, and queued if additional datagrams are present.
 
 Let's walk through a specific example of how the routing is exactly done for one specific datagram using the provided scenario and JSON files.
