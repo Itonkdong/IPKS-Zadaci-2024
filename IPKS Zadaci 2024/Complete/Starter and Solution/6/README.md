@@ -106,21 +106,15 @@ TTL: 5
 
 **datagrams.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/datagrams.json
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.003.png)
+![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.003.png)
 
 Слика 1. Успешно доделени IP адреси на сите интерфејси, успешно вчитани табели и успешно подредени датаграми на влезниот интерфејс од рутерот.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.004.png)
+![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.004.png)
 
 Слика 2. Успешно рутирање на првиот датаграм од влезниот интерфејс.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.005.png)
+![image](Content/readme-images/Aspose.Words.109fc371-5158-4c8f-b84c-57271c2c7eff.005.png)
 
 Слика 3. Успешно завршена симулацијата на рутирање со правилно подредување на датаграмите на соодвените излезни интерфејси. Датаграмите со TTL = 0 се отфрлени
 **
