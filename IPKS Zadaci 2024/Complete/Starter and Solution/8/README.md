@@ -16,15 +16,11 @@
 
 Еве еден основен пример:
 
-![A screenshot of a computer program
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.001.png)
 
 **Токен објектот** е клучен дел од низата **chatHistory**. Тој содржи информации за секој токен кој се разменил меѓу корисниците:
 
-![A screenshot of a computer code
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.002.png)
 
 • **sender**: Претставува корисникот кој го испратил токенот. Во овој пример, е "anon123."
 
@@ -72,7 +68,7 @@ Description automatically generated]
 
 Примерен Сценарио:
 
-![](Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.003.png)
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.003.png)
 
 
 
@@ -110,20 +106,16 @@ Fetch From:
 
 **locked-chats**: https://raw.githubusercontent.com/Itonkdong/JSON/main/locked-chats.json
 
-![A computer screen with a white background
-
-Description automatically generated](Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.004.png)
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.004.png)
 
 Слика 1. Успешно вчитани заклучени разговори во соодветните табови.
 
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.005.png)
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.005.png)
 
 Слика 2. Успешно вчитана историја на еден разговор
-**
 
+<hr>
 
 **Exercise 6:** 
 
@@ -143,13 +135,11 @@ The main task for the students is to build a module responsible for loading lock
 
 The JSON array consists of multiple chat objects, each representing a past interaction between two users. Here's a basic example:
 
-![ref1]
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.001.png)
 
 The **tokenObject** is a key part of the **chatHistory** array. It contains information about each token exchanged between users:
 
-![A screenshot of a computer code
-
-Description automatically generated]
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.002.png)
 
 - **sender**: Represents the user who sent the token. In this example, it's "anon123."
 - **tokenContent**: Contains the actual content of the token. It could be a text message or a URL for a picture message.
@@ -183,7 +173,7 @@ The outcome of each chat, whether meeting new friends or rejection, determines h
 
 Example Scenario:
 
-![](Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.007.png)
+![image](Content/readme-images/Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.007.png)
 
 Explanation:
 
@@ -211,13 +201,3 @@ Explanation:
 Fetch From:
 
 **locked-chats**: https://raw.githubusercontent.com/Itonkdong/JSON/main/locked-chats.json
-
-
-
-[A screenshot of a computer program
-
-Description automatically generated]: Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.001.png
-[A screenshot of a computer code
-
-Description automatically generated]: Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.002.png
-[ref1]: Aspose.Words.2a8536fb-13ba-4c56-872a-76b8788d3b6a.006.png
