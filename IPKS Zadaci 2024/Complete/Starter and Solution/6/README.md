@@ -131,13 +131,13 @@ TTL: 5
 **Exercise Steps**:
 
 1. **Router-Settings.json:**
-   - You will need to fetch information from JSON file called "router-settings.json."
-   - The JSON structure includes:
-      - Router hostname
-      - Entering interface with its IP
-      - IPs of other interfaces
-      - Routing table (mapping concrete IP addresses to next hop IP addresses and interface identifications)
-      - ARP table (mapping IP addresses to MAC addresses)
+   1. You will need to fetch information from JSON file called "router-settings.json."
+   1. The JSON structure includes:
+      1. Router hostname
+      1. Entering interface with its IP
+      1. IPs of other interfaces
+      1. Routing table (mapping concrete IP addresses to next hop IP addresses and interface identifications)
+      1. ARP table (mapping IP addresses to MAC addresses)
 1. **Understanding Datagram.json:**
    1. You then need to examine a JSON file named "datagram.json" containing an array of simplified IP datagrams.
    1. Each datagram object includes fields such as version, header length, total length, time to live, protocol, header checksum, source IP, destination IP, and payload.
