@@ -1,4 +1,4 @@
-﻿**Вежба 9:** 
+<h1>Вежба 9:</h1>
 
 **Едноставна апликација за уредување на филмови** 
 
@@ -6,7 +6,7 @@
 
 **ЗАБЕЛЕШКА: ЗА ОВАА ЗАДАЧА ЗАДОЛЖИТЕЛЕН Е САМО ПРВИОТ ДЕЛ, ОСТАНАТИТЕ ДЕЛОВИ СЕ ОПЦИОНАЛНИ**
 
-<h3>Дел I (Основна имплементација)</h3>
+<h3>Дел I (Основна имплементација):</h3>
 
 **Преглед**: Во овој почетен дел од вежбата, ќе ја поставите основата за едноставна апликација за уредување на филмови. Апликацијата е организирана во различни таб-ови, секој со специфична намена - од управување со папки и фајлови до функционалности за зачувување на проекти. Како дел од задачата, ќе добиете **root-folder.json** фајл, во кој има папки со „филмови“. Вашата задача вклучува рендерирање на папки во таб-от „Folders“, овозможувајќи на корисниците да кликанат на секоја папка и да ги разгледуваат соодветните филмови од таа папка прикажани во делот „Files“. Основната функционалност лежи во вчитувањето на избрани „активни“ фајлови на лента за едитирање (Т1 или Т2, изберете само еден), зачувување на проектот, креирање на нови проекти и можност за повторно вчитување на стари проекти.
 
@@ -58,7 +58,7 @@
 **root-folder.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/root-folder.json
 
 
-<h3>Дел II (Подобрување на корисничкото искуство со подобрен UI)</h3>
+<h3>Дел II (Подобрување на корисничкото искуство со подобрен UI):</h3>
 
 **Преглед**: Во овој втор дел од вежбата, ќе го подобриме корисничкото искуство со имплементирање на дополнителни функции за подобрување на корисничкиот интерфејс на апликацијата за уредување на филмови. Секој фајл има две URL адреси: previewURL и thumbnailURL. ThumbnailURL ќе служи како позадина за секој фајл прикажан во таб-от "Files", слично на типичен thumbnail. Дополнително, кога фајлот ќе се вчита на лентата за едитирање, наместо div со црвена позадина, позадината сега ќе биде сликата од previewURL, повторена ако траењето на фајлот ја надминува ширината на сликата. Дополнително, уредувачкиот фајл на лентата за едитирање сега може да стане активен. Секој пат кога нов фајл се додава на лентата, тој уредувачки фајл станува активен (последниот додаден). Можете да го промените активниот уредувачки фајл со кликање на кој било друг уредувачки фајл. Кога е активен уредувачкиот фајл, неговата preview слика се прикажува во таб-от "Preview" од апликацијата. 
 
@@ -78,7 +78,7 @@
 - Кога уредувачкиот фајл се брише не треба да има активен уредувачки фајл. 
 - Таб-от "Preview" треба ова да го одразува со неприкажување на никаква слика, се додека корисникот не кликне на некој уредувачки фајл, правејќи го акитвен. 
 
-<h3>Дел III (Подобрување на можности)</h3>
+<h3>Дел III (Подобрување на можности):</h3>
 
 **Преглед**: Во овој трет дел од вежбата, ќе ги дополниме можностите на апликацијата за уредување на филмови. Сега корисниците може да изберат помеѓу 15-минутна и 20-минутна трака со кликање на радио копчето во таб-от "Project Info". Дополнително, корисниците можат да ги персонализираат своите проекти со избор на боја на позадина. Оваа боја ќе биде применета како боја на позадина на зачуваниот проект "div" во таб-от "Saved Projects". Во овој дел, ќе го дефинираме и однесувањето кога нема да име повеќе простор на лентата за едитирање. Во тој случај, треба да се прикаже alert прозорче, информирајќи го корисникот дека вметнувањето на фајл во лентата за едитирање не е можно бидејќи ќе го надмине одреденото траење на проектот. 
 
@@ -97,7 +97,7 @@
 
 Исто така, ако корисникот во моментот уредува фајлови на лентата (на пример, со траење од 20 минути) и се обиде да се префрли на помала лента (на пример, 15 минути) каде што вкупното траење на проектот го надминува новото траење на лентата (15 минути), треба да се прикаже alert прозорче и акцијата треба да биде блокирана. 
 
-<h3>Дел IV (Симулирање на реално однесување)</h3>
+<h3>Дел IV (Симулирање на реално однесување):</h3>
 
 **Преглед**: Во овој последен, краток, но влијателен дел од вежбата, ќе симулираме период на чекање што е потребен пред зачувувањето на проектот, што симулира време за рендерирање. Времето за рендерирање се пресметува врз основа на вкупното времетрање во секунди на уредувачките фајлови на лентата за едитирање, поделено со 100. За време на овој период на чекање, прогресната лента во таб-от "Save Progress" (веќе вметната во HTML и CSS) треба да започне да се пополнува, како типичната прогресна лента. Проектот се зачувува само кога прогресната лента е наполнета целосно. Кога корисникот ќе се обиде да вчита проект додека има фајлови на лентата за едитирање, прозорец за потврда треба да го праша корисникот дали сака да го отфрли незачуваниот проект (уредувачките фајловите на лентата за едитирање). Ако корисникот кликне "OK", уредувачките фајлови се отфрлаат, и избраниот зачуван проект се вчитува на лентата за едитирање. Ако корисникот кликне "Cancel", процесот на вчитување се откажува и не се прават промени. Дополнително, сите проекти сега е потребно да се зачувуваат и во local storage.
 
@@ -156,7 +156,7 @@
 
 **NOTE: ONLY PART ONE IS MANDATORY FOR THIS EXERCISE, THE OTHER PARTS ARE OPTIONAL**
 
-<h3>Part I (Basic Implementation)</h3>
+<h3>Part I (Basic Implementation):</h3>
 
 **Overview**: In this initial stage of the exercise, you'll lay the foundation for a simplified movie editing app. The app is organized into distinct tabs, each serving a specific purpose - from managing folders and files to project-saving functionalities. As part of the task, you'll fetch and parse data from a **root-folder.json** file, housing folders with sets of movie files. Your mission involves rendering folders in the "Folders" tab, allowing users to click and explore the associated files in the "Files" tab. The core functionality lies in loading selected files onto the editing bar (T1 or T2, choose only one), where the user can select a folder and a file, click the editing bar, and calculate the file's duration percentage relative to the 15-minute editing bar. The result is a red-background div, symbolizing the file's position. Additionally, you'll implement project-saving capabilities, prompting users to insert a project name and click the "Save Project" button. The saved project will appear in the "Saved Projects" tab, and editing bars will clear. To complete this part, users should be able to load a saved project, ensuring existing files on the editing bar are cleared before loading.
 
@@ -206,7 +206,7 @@ Imagine you have a collection of vacation videos categorized into folders. You w
 
 **root-folder.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/root-folder.json
 
-<h3>Part II (Enhancing User-Friendly UI)</h3>
+<h3>Part II (Enhancing User-Friendly UI):</h3>
 
 **Overview:** In this second part of the exercise, you'll elevate the user experience by implementing additional features to enhance the user interface of the movie editing app. Each file now has two URLs: preview and thumbnail. The thumbnail will serve as the background for each file displayed in the "Files" section, resembling a typical video thumbnail. Additionally, when a file is loaded onto the editing bar, instead of a red background div, the background will now be an image of the **previewURL**, repeating if the file's duration exceeds the image width.
 
@@ -230,7 +230,7 @@ Furthermore, an editing file on the editing bar can now become active. Each time
 **Example Scenario:** Now, when you load a file onto the editing bar, not only does its **previewURL** become the background, but you can also make it active to see its preview image in the "Preview" tab. Moreover, you have the flexibility to delete an editing file directly from the editing bar, streamlining the editing process.
 
 
-<h3>Part III (Improving Capabilities)</h3>
+<h3>Part III (Improving Capabilities):</h3>
 
 **Overview:** In this third part of the exercise, you'll further enhance the capabilities of the movie editing app. Users can now choose between a 15-minute and a 20-minute track by clicking the radio button in the "Project Info" tab. Additionally, users can personalize their projects by choosing a background color. This color will be applied as the background color of the saved project "div" in the "Saved Projects" tab.
 
@@ -253,7 +253,7 @@ Similarly, if the user is currently editing files on a track (e.g., with a durat
 
 **Example Scenario:** Now, users have the flexibility to choose the duration of their project and personalize it with a background color. When attempting to insert a file into the editing bar, they will be alerted if it would exceed the specified project duration, ensuring a seamless editing experience.
 
-<h3>Part IV (Simulating Real Behavior)</h3>
+<h3>Part IV (Simulating Real Behavior):</h3>
 
 **Overview:** In this short yet impactful part of the exercise, you will simulate a waiting period that is required before a project is saved, simulating a render time. The render time is calculated based on the total length in seconds of the editing files on the editing bar, divided by 100. During this waiting period, a progress bar in the "Save Progress" tab (already hard-coded in the HTML and CSS) should start filling up, resembling a typical progress bar. The project is saved only when the progress bar is fully filled.
 
