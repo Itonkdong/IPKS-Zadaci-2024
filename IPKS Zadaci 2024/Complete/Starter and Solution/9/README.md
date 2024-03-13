@@ -154,6 +154,8 @@
 
 - **Difficulty Rating: 9/10**
 
+**NOTE: ONLY PART ONE IS MANDATORY FOR THIS EXERCISE, THE OTHER PARTS ARE OPTIONAL**
+
 <h3>Part I (Basic Implementation)</h3>
 
 **Overview**: In this initial stage of the exercise, you'll lay the foundation for a simplified movie editing app. The app is organized into distinct tabs, each serving a specific purpose - from managing folders and files to project-saving functionalities. As part of the task, you'll fetch and parse data from a **root-folder.json** file, housing folders with sets of movie files. Your mission involves rendering folders in the "Folders" tab, allowing users to click and explore the associated files in the "Files" tab. The core functionality lies in loading selected files onto the editing bar (T1 or T2, choose only one), where the user can select a folder and a file, click the editing bar, and calculate the file's duration percentage relative to the 15-minute editing bar. The result is a red-background div, symbolizing the file's position. Additionally, you'll implement project-saving capabilities, prompting users to insert a project name and click the "Save Project" button. The saved project will appear in the "Saved Projects" tab, and editing bars will clear. To complete this part, users should be able to load a saved project, ensuring existing files on the editing bar are cleared before loading.
