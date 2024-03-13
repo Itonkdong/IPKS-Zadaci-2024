@@ -6,7 +6,7 @@
 
 **ЗАБЕЛЕШКА: ЗА ОВАА ЗАДАЧА ЗАДОЛЖИТЕЛЕН Е САМО ПРВИОТ ДЕЛ, ОСТАНАТИТЕ ДЕЛОВИ СЕ ОПЦИОНАЛНИ**
 
-<h2>Дел I:</h2>
+<h3>Дел I:</h3>
 
 **Преглед**: Во оваа вежба, ќе дизајнираатe и имплементираат модул за „изработка на предмети “(Item Crafting) за нова survival игра. Изработувачката (crafting) табла се состои од 6 слотови подредени во 2x3 табела, со дополнителен слот за прашок (визуелно претставен со розова рамка). Резултантниот предмет се прикажува во слотот за резултат. Постојат два типа предмети: материјали и прашаци.
 
@@ -159,7 +159,7 @@
 
 **crafting-recipes.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/crafting-recipes.json
 
-<h2>Дел II:</h2>
+<h3>Дел II:</h3>
 
 **Модул за креирање рецепти** 
 
@@ -273,7 +273,7 @@
 
 **NOTE: ONLY PART ONE IS MANDATORY FOR THIS EXERCISE, THE OTHER PARTS ARE OPTIONAL**
 
-<h2>Part I:</h2>
+<h3>Part I:</h3>
 
 **Overview:** In this exercise, students will design and implement an "Item Crafting" app module for a new survival mythic game. The crafting board consists of 6 slots arranged in a 2x3 grid, with an additional powder slot (visually represented with a pink dashed border). The resulting item is displayed in the result slot. Two types of items exist: materials and powders.
 
@@ -377,7 +377,7 @@ Explanation:
 
 **crafting-recipes.json**: https://raw.githubusercontent.com/Itonkdong/JSON/main/crafting-recipes.json
 
-<h2>Part II:</h2>
+<h3>Part II:</h3>
 
 **Recipe Creation Module**
 
